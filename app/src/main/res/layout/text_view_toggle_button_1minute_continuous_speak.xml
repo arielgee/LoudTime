@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/btnToggle1MinuteContinuousSpeak"
+          android:layout_width="@dimen/button_toggle_size"
+          android:layout_height="@dimen/button_toggle_size"
+          android:textSize="12sp"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentBottom="true"
+          android:gravity="center"
+          android:textColor="@color/toggleButtonText"
+          android:background="@color/toggleButtonBackground"
+          android:text="@string/toggle_1min_continuous_speak"
+          android:clickable="true"/>

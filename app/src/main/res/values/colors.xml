@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#a72529</color>
+    <color name="primaryDark">#922024</color>
+    <color name="accent">#2793e8</color>
+
+    <color name="tabIndicator">#FFFFFF</color>
+    <color name="windowBackground">#323232</color>
+
+    <color name="progress">#007DD6</color>
+    <color name="timesUp">#FF0000</color>
+
+    <color name="toggleButtonText">#898989</color>
+    <color name="toggleButtonBackground">#454545</color>
+
+</resources>
